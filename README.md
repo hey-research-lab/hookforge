@@ -167,3 +167,7 @@ Deployment addresses are published in [`packages/registry`](packages/registry) a
 Hook ideas are welcome, especially ones this catalogue has missed. Open an issue describing the mechanism and what
 existing hook it is *not*. The prior-art check is the hard part, and it is the part that makes this repository worth
 reading.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/hookforge&type=Date)](https://www.star-history.com/#nirholas/hookforge&Date)
