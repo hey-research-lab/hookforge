@@ -1,0 +1,26 @@
+# hookforge
+
+> 50 production Uniswap v4 hooks: novel AMM mechanisms, Solidity + Foundry, a TypeScript SDK, an MCP server for agents, and a 3D docs site. Base, Arbitrum, Unichain, Robinhood Chain.
+
+hookforge is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/hookforge/blob/HEAD/README.md): install, usage and reference
+- [Why the hooks are discoverable](https://github.com/nirholas/hookforge/blob/HEAD/README.md#why-the-hooks-are-discoverable)
+- [The catalogue](https://github.com/nirholas/hookforge/blob/HEAD/README.md#the-catalogue)
+- [Repository layout](https://github.com/nirholas/hookforge/blob/HEAD/README.md#repository-layout)
+- [Build and test](https://github.com/nirholas/hookforge/blob/HEAD/README.md#build-and-test)
+- [Deployed addresses](https://github.com/nirholas/hookforge/blob/HEAD/README.md#deployed-addresses)
+- [Contributing](https://github.com/nirholas/hookforge/blob/HEAD/README.md#contributing)
+- [AGENTS.md](https://github.com/nirholas/hookforge/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/hookforge/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/hookforge)
+- [Issues](https://github.com/nirholas/hookforge/issues)
+- [Discussions](https://github.com/nirholas/hookforge/discussions)
+- [Homepage](https://hookforge.pages.dev/)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)

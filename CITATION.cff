@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "hookforge"
+abstract: "50 production Uniswap v4 hooks: novel AMM mechanisms, Solidity + Foundry, a TypeScript SDK, an MCP server for agents, and a 3D docs site. Base, Arbitrum, Unichain, Robinhood Chain."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/hookforge"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
